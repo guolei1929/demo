@@ -1,2 +1,3 @@
 Europe England London
 Asia China Beijing
+America Canada Ottawa
